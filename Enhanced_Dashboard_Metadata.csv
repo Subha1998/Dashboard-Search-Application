@@ -1,0 +1,6 @@
+Dashboard Name,Tab Name,View Name,Description,Dashboard Link,Tags,Owner,Last Updated,Primary KPI
+Sales Overview,Monthly Sales,Sales by Region,Shows monthly sales figures across regions and product categories.,http://example.com/sales-overview,"sales, region, monthly",Sales Team,2024-12-01,Total Sales
+Customer Insights,Customer Demographics,Age Distribution,"Visualizes customer age groups, locations, and gender breakdown.",http://example.com/customer-insights,"customer, demographics, age",Customer Success Team,2024-11-20,Customer Count
+Revenue Analysis,Quarterly Revenue,Revenue Trend,Displays revenue trends and comparison over quarters.,http://example.com/revenue-analysis,"revenue, quarterly, trend",Finance Team,2025-01-15,Quarterly Revenue
+Product Performance,Top Products,Product Sales Heatmap,Highlights top performing products by sales and growth rate.,http://example.com/product-performance,"product, performance, top",Product Team,2025-02-10,Top Products
+Marketing Dashboard,Campaign Performance,CTR Over Time,Tracks campaign click-through rates over time and across channels.,http://example.com/marketing-dashboard,"marketing, campaign, ctr",Marketing Team,2025-03-05,CTR

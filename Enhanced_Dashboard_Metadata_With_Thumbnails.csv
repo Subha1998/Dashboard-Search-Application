@@ -1,0 +1,10 @@
+Dashboard Name,Tab Name,View Name,Primary KPI,Owner,Tags,Description,Dashboard Link,Thumbnail URL
+Sales Overview,Summary,KPI Grid,Sales Growth,Alice,"sales, q1",Overview of sales performance this quarter.,https://example.com/dashboards/sales,https://picsum.photos/seed/dashboard0/400/240
+Customer Insights,Segmentation,Demographics,Customer Retention,Bob,"customer, region",Insight into customer demographics and behavior.,https://example.com/dashboards/customers,https://picsum.photos/seed/dashboard1/400/240
+Revenue Trends,Monthly,Line Chart,Monthly Revenue,Carol,"finance, monthly",Revenue growth trend month over month.,https://example.com/dashboards/revenue,https://picsum.photos/seed/dashboard2/400/240
+Inventory Metrics,Stock Levels,Warehouse Stats,Stock Accuracy,David,"inventory, operations",Real-time stock levels and inventory accuracy.,https://example.com/dashboards/inventory,https://picsum.photos/seed/dashboard3/400/240
+Marketing Performance,Campaigns,Ad Spend,Conversion Rate,Eva,"marketing, ads",Marketing campaign effectiveness and ROI.,https://example.com/dashboards/marketing,https://picsum.photos/seed/dashboard4/400/240
+Financial Summary,Quarterly Report,Balance Sheet,Net Profit,Frank,"finance, summary",Financial snapshot with key profitability metrics.,https://example.com/dashboards/financials,https://picsum.photos/seed/dashboard5/400/240
+HR Dashboard,Hiring,Recruitment Funnel,New Hires,Grace,"hr, hiring",Recruitment metrics and employee statistics.,https://example.com/dashboards/hr,https://picsum.photos/seed/dashboard6/400/240
+Project Tracker,Milestones,Gantt Chart,Project Completion,Hank,"project, roadmap",Project timelines and progress tracking.,https://example.com/dashboards/projects,https://picsum.photos/seed/dashboard7/400/240
+Website Analytics,Traffic Sources,Visitor Graph,Bounce Rate,Ivy,"analytics, web",Analysis of website visitor behavior and patterns.,https://example.com/dashboards/web,https://picsum.photos/seed/dashboard8/400/240

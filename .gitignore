@@ -1,0 +1,7 @@
+*.docx
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
