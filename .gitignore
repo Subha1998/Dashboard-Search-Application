@@ -1,5 +1,5 @@
 *.docx
-
+requirements.txt
 # Virtual environments
 .venv/
 env/
