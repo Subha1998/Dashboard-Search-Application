@@ -59,7 +59,7 @@ if choice == "Show Dashboards":
             sem = scores[i]
             fuz = fuzzy_score(query, f"{row['Dashboard Name']} {row['Tab Name']} {row['View Name']} {row['Description']}")
             results.append((0.6 * sem + 0.4 * fuz, i))
-        top = sorted(results, key=lambda x: x[0], reverse=True)[:3]
+        top = sorted(results, key=lambda x: x[0], reverse=True)[:1]
         df_to_show = df.iloc[[idx for _, idx in top]]
     else:
         df_to_show = df
